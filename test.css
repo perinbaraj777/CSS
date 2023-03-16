@@ -1,0 +1,47 @@
+.h1_TNR{
+    font-family:'Times New Roman';
+    font-size:24px;
+    font-variant:small-caps;
+}
+.h1_serif{
+    font-family:sans-serif,'Times New Roman';
+    font-size:24px;
+    font-style:italic;
+}
+.h1_Noto{
+    font-family:'Noto Sans Signwriting';
+    font-size:70%;
+    font-style:oblique;
+}
+.h1_NotoReplace{
+    font-family:'Noto Sans Signwriting',sans-serif,'Times New Roman';
+    font-size:3em;
+    font-variant:small-caps;
+}
+.inline_height_normal{
+    line_height:normal;
+}
+.inline_height_font_size{
+line-height:30px;
+}
+.inline_height_em{
+line-height:3em;
+}
+.inline_height_percentage {
+line-height:150%;
+}
+#normal{
+border:solid yellow 10px;
+}
+#fs{
+border:solid orange 10px;
+}
+#em{
+border:solid orchid 10px;
+}
+#percentage{
+border:solid cornsilk 10px;
+}
+.bold{
+    font-weight:bold;
+}

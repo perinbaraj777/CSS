@@ -1,0 +1,44 @@
+
+*{
+    background-color: rgb(26, 165, 165);
+}
+#heading{
+    color: rgb(73, 18, 52);
+}
+.BIOGRAPHY{
+    color: blue;
+}
+#figname{
+    color:antiquewhite;
+}
+.Early_life_and_education{
+    color:blueviolet;
+}
+#scientist{
+    background-color:rgb(100, 16, 209);
+}
+#moredetails{
+    color:red;
+}
+h2{
+    color:rgb(153, 247, 3);
+}
+.main{
+    background-color: bisque;
+}
+.div1{
+    background-color: blue;
+    height: 100%;
+    width:20%;
+    
+    
+}
+.div2{
+    color: blue;
+    background-color: black;
+    height:100%;
+    width: 100%;
+}
+.div2>h4{
+    color:green;
+}
