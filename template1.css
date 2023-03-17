@@ -1,0 +1,40 @@
+body{
+    height:100%;
+    width:98%;
+    background-image:url("treking.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* background-attachment: fixed; */
+    /* margin:0 auto; */
+} 
+.head{
+    font-style:italic;
+    font-size:20px;
+    font-weight:300;
+    color:aliceblue;
+    
+}
+.quotes{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:oblique;
+    font-size:40px;
+    font-weight:900;
+    color:white;
+    margin-right:50px;
+}
+.cont{
+    margin-left:250px;
+    padding-top:100px;
+}
+.box{
+    margin-left:250px;
+    color:white;
+    background-color:0;
+    padding:300;
+}
+.bt1{
+    margin-left:10px;
+}
+.bt2{
+    margin-left:20px;
+}
