@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+height:90vh;
+    width:100%;
+    background-image: url("https://wallpaperaccess.com/full/3581544.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.div1{
+    font-weight: 900;
+    height:500px;
+    width:350px;
+    background-color:transparent;
+    border:solid black 2px;
+    border-radius:25px;
+    margin-left:10px;
+    line-height: 50px;
+    box-shadow:0 0 10px 5px black;
+
+}
+.check{
+    margin-left:15px;  
+}
+button{
+    margin-left:50px;
+    border:2px solid rgb(26, 228, 26);
+    background-color: rgb(26, 228, 26);
+    height:40px;
+    width:250px;
+    border-radius:50px;
+ 
+    
+}
+.div2{
+    height:400px;
+    width:350px;
+    background-color:transparent;
+    margin-left:30px;
+     border:solid rgb(243, 111, 184) 2px;
+     border-radius:25px;
+     font-weight: 900;
+     box-shadow:0 0 10px 5px black;
+
+}
+.div3{
+    display:flex;
+    color:white;
+    margin-top:50px;
+    margin-left:200px;
+    line-height:40px;
+  
+}
+.log{
+    margin-left:15px;
+    display:inline;    
+}
+.log1{
+    text-decoration:4px solid red underline;
+    text-underline-offset:6px;
+    
+}
+.hma{
+    margin-left:15px;
+   
+    border-bottom:3px solid rgb(12, 247, 12);
+    margin-right:50px;
+}
+h2{
+    margin-left:15px;
+    border-bottom:3px solid white;
+    margin-right:50px;
+}
+input{
+    margin-left:30px;
+   margin-top:60px;
+    background-color: transparent;
+    border:none;
+    outline:none;
+    border-bottom:4px solid rgb(12, 247, 12);
+    
+}
+.pass{
+    margin-top:30px;
+    border:none;
+    outline:none;
+    border-bottom:4px solid white;
+    color:aliceblue;
+    margin-left:30px;
+   }
+   input::placeholder{
+    color:aliceblue;
+    font-size:large;
+   }
